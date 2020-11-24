@@ -1,0 +1,1 @@
+{"type": "MessageBlock", "name": "\u0411\u043b\u043e\u043a \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f 4 (\u041d\u0435\u0442)", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "graphite", "amount": 5}], "research": "mechanical-drill", "category": "effect"}
