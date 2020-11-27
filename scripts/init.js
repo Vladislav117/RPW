@@ -12,5 +12,7 @@ unitType.mineSpeed = 6.5;
 unitType.buildSpeed=5;
 unitType.stats=new Stats();
 unitType.setStats();
+unitType.canBoost = true;
+unitType.boostMultiplier = 1.5f;
 
 //UnitTypes.dagger=unitType;
