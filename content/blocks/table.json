@@ -1,0 +1,14 @@
+{
+	"type": "Wall",
+	"name": "Table",
+	"description": "No",
+	"rotate": false,
+	"update": true,
+	"health": 360,
+	"size": 1,
+	"requirements": [{"item": "lead", "amount": 12}],
+	"research": "mechanical-drill",
+	"category": "units",
+	"destructible": true,
+	"breakable": true,
+	"hasShadow": false}

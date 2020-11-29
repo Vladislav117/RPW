@@ -1,0 +1,15 @@
+{
+	"type": "Wall",
+	"name": "Armchair",
+	"description": "No",
+	"rotate": true,
+	"update": true,
+	"health": 360,
+	"size": 1,
+	"payloadLimit": 0.0,
+	"requirements": [{"item": "lead", "amount": 12}],
+	"research": "mechanical-drill",
+	"category": "units",
+	"destructible": true,
+	"breakable": true,
+	"hasShadow": false}
