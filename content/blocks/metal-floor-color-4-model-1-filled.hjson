@@ -1,0 +1,20 @@
+{
+  type: Wall
+  name: Металлический пол (Модель 1, Цвет 4)
+  description: ...
+  size: 1
+  health: 1
+  category: logic
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 1
+    }
+  ]
+  hasShadow: false
+  solid: false
+  placeableOn: true
+  alwaysReplace: true
+}

@@ -1,0 +1,17 @@
+{
+  type: StorageBlock
+  name: Хранилище (Цвет 3)
+  description: ...
+  size: 2
+  health: 360
+  category: units
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 1
+    }
+  ]
+  itemCapacity: 1000
+}

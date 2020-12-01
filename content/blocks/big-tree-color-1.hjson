@@ -1,0 +1,16 @@
+{
+  type: TreeBlock
+  name: Большое дерево (Цвет 1)
+  description: ...
+  health: 10
+  category: effect
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 5
+    }
+  ]
+  breakable: true
+}

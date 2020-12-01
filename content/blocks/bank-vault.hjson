@@ -1,0 +1,17 @@
+{
+  type: StorageBlock
+  name: Банковское хранилище
+  description: ...
+  size: 5
+  health: 600
+  category: effect
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 1
+    }
+  ]
+  itemCapacity: 1000000
+}

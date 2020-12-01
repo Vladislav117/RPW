@@ -1,0 +1,16 @@
+{
+  type: MessageBlock
+  name: Сообщение (Модель 4)
+  description: ...
+  size: 1
+  health: 1
+  category: logic
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: graphite
+      amount: 4
+    }
+  ]
+}
