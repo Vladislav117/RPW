@@ -1,1 +1,0 @@
-{"type": "StorageBlock", "name": "\u0422\u0443\u043c\u0431\u043e\u0447\u043a\u0430", "description": "...", "health": 10, "itemCapacity": 15, "size": 1, "requirements": [{"item": "copper", "amount": 10}], "research": "mechanical-drill", "category": "effect"}

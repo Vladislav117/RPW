@@ -1,1 +1,0 @@
-{"type": "StorageBlock", "name": "\u0425\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435 (\u0426\u0432\u0435\u0442 4, \u0440\u0430\u0437\u043c\u0435\u0440 3)", "description": "...", "health": 360, "itemCapacity": 1000, "size": 3, "requirements": [{"item": "titanium", "amount": 250}, {"item": "thorium", "amount": 125}], "research": "mechanical-drill", "category": "effect"}

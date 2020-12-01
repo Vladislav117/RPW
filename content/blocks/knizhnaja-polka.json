@@ -1,1 +1,0 @@
-{"type": "Wall", "name": "\u041a\u043d\u0438\u0436\u043d\u0430\u044f \u043f\u043e\u043b\u043a\u0430", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "copper", "amount": 10}], "research": "mechanical-drill", "category": "effect", "destructible": true, "breakable": true, "rotate": true, "hasShadow": true}

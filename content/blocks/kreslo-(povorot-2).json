@@ -1,1 +1,0 @@
-{"type": "Wall", "name": "\u041a\u0440\u0435\u0441\u043b\u043e (\u041f\u043e\u0432\u043e\u0440\u043e\u0442 2)", "description": "...", "requirements": [{"item": "copper", "amount": 10}], "health": 1, "size": 1, "solid": false, "placeableOn": true, "hasShadow": false, "alwaysReplace": true, "category": "effect"}
