@@ -1,0 +1,25 @@
+{
+  type: LogicDisplay
+  name: Небольшой дисплей (52x52)
+  description: ...
+  size: 2
+  health: 52
+  category: logic
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: lead
+      amount: 40.0
+    }
+    {
+      item: metaglass
+      amount: 20.0
+    }
+    {
+      item: silicon
+      amount: 20.0
+    }
+  ]
+  displaySize: 52
+}

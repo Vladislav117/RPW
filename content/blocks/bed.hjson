@@ -1,0 +1,21 @@
+{
+  type: Wall
+  name: Тюремная кровать
+  description: ...
+  size: 1
+  health: 10
+  category: effect
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 3
+    }
+    {
+      item: lead
+      amount: 7
+    }
+  ]
+  solid: false
+}

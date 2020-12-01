@@ -1,0 +1,16 @@
+{
+  type: Wall
+  name: Свинцовая стена (Цвет 7, Размер 4)
+  description: ...
+  size: 4
+  health: 5120
+  category: defense
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: lead
+      amount: 96
+    }
+  ]
+}

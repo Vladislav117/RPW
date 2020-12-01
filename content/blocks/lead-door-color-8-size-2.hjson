@@ -1,0 +1,20 @@
+{
+  type: Door
+  name: Свинцовая дверь (Цвет 8, Размер 2)
+  description: ...
+  size: 2
+  health: 1280
+  category: defense
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: lead
+      amount: 24
+    }
+    {
+      item: silicon
+      amount: 16
+    }
+  ]
+}

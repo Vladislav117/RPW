@@ -1,0 +1,25 @@
+{
+  type: LogicDisplay
+  name: Весьма большой дисплей (367x367)
+  description: "[red]32K Ultra HD"
+  size: 14
+  health: 52
+  category: logic
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: lead
+      amount: 459.99999999999994
+    }
+    {
+      item: metaglass
+      amount: 229.99999999999997
+    }
+    {
+      item: silicon
+      amount: 229.99999999999997
+    }
+  ]
+  displaySize: 357
+}

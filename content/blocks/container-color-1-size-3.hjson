@@ -1,0 +1,21 @@
+{
+  type: StorageBlock
+  name: Хранилище (Цвет 1)
+  description: ...
+  size: 2
+  health: 360
+  category: units
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: titanium
+      amount: 250
+    }
+    {
+      item: thorium
+      amount: 125
+    }
+  ]
+  itemCapacity: 1000
+}

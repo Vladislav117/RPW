@@ -1,0 +1,20 @@
+{
+  type: TreeBlock
+  name: Большое дерево (Цвет 7)
+  description: ...
+  health: 10
+  category: effect
+  research: mechanical-drill
+  requirements:
+  [
+    {
+      item: copper
+      amount: 3
+    }
+    {
+      item: thorium
+      amount: 3
+    }
+  ]
+  breakable: true
+}
