@@ -2,7 +2,7 @@
   type: StorageBlock
   name: Хранилище (Цвет 2)
   description: ...
-  size: 2
+  size: 3
   health: 360
   category: units
   research: mechanical-drill
